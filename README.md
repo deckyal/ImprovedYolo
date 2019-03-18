@@ -1,5 +1,5 @@
 # ImprovedYolo
-Improved YOLO-Based object detection with multiple Fine Tunings
+[Student Project] Improved YOLO-Based object detection with multiple Fine Tunings
 
 This is our repository for one of our student's final undergraduate project in UPF. This project specifically focusses in improving baseline Yolo object detection mechanisms to detect cars in pedestarial complex. The model was trained on the Kitti dataset. 
 
